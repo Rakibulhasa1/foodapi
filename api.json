@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": "1",
+    "title": "lorem ipsum doler",
+    "desc": "lorem solo dorl sdf adsfasdf",
+    "image": "https://picsum.photos/536/354",
+    "rating": 5,
+    "delivery_time": "2 days"
+  }
+  {
+    "id": "2",
+    "title": "lorem ipsum doler",
+    "desc": "lorem solo dorl sdf adsfasdf",
+    "image": "https://picsum.photos/536/354",
+    "rating": 4,
+    "delivery_time": "2 days"
+  }
+]
