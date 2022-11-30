@@ -1,1 +1,25 @@
 
+[
+  {
+    "id": "1",
+    "title": "lorem ipsum doler",
+    "desc": "lorem solo dorl sdf adsfasdf",
+    "image": "https://img.freepik.com/free-photo/delicious-hawaiian-pizza-cooking-ingredients_1150-24289.jpg?w=2000",
+ 
+  },
+   {
+    "id": "2",
+    "title": "lorem ipsum doler",
+    "desc": "lorem solo dorl sdf adsfasdf",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lxrbqmqw1wzjuubgfziu",
+
+  },
+  {
+    "id": "3",
+    "title": "lorem ipsum doler",
+    "desc": "lorem solo dorl sdf adsfasdf",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ik6xtig20t0td067fope",
+    
+  }
+ 
+]
